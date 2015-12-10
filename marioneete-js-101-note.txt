@@ -1,0 +1,11 @@
+keyword: GAIA_DEVICE_TYPE
+file: momde_modules/.bin/marionette-mocha
+file: marionette-js-runner/
+file: gaia/tests/jsma/runnwe/mari-js-runner
+
+gaye@mozilla.com [:gaye]
+
+# TestCluster
+
+- Local docker container onlu in Linux right now
+- Inside gaia/tests/taskcluster/tasks/, we can find the test task yml file
